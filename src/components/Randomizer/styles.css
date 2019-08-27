@@ -1,0 +1,83 @@
+
+
+.button-container {
+    width: 200px;
+    margin: 0 auto 45px;
+}
+
+.button-container .MuiButton-sizeLarge {
+    padding: 10px 10px;
+    font-weight: 500;
+}
+
+.rendered-content-container {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+}
+
+.card-container {
+    width: 300px;
+    background-color: #f7f7f7;
+    border-radius: 15px;
+    padding: 15px 10px;
+    padding-left: 40px;
+    text-align: center;
+    margin: 0 15px 45px;
+    display: inline-block;
+    position: relative;
+}
+
+h5.character {
+    font-weight: 500;
+}
+
+.character-img {
+    z-index: 1000;
+    height: 70px;
+    width: 70px;
+    position: absolute;
+    left: -15px;
+    top: -30px;
+    
+}
+
+.color-card {
+    z-index: 10;
+    height: 100%;
+    width: 30px;
+    position: absolute;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    left: 0;
+    top: 0;
+}
+div.S {
+    background-color: #ee5253;
+}
+
+.A {
+    background-color: #ff9f43;
+}
+
+.B {
+    background-color: #20bf6b;
+}   
+
+.C {
+    background-color: #5f27cd;
+}
+
+.D {
+    background-color: #2e86de;
+}
+
+/* @media (min-width: 840px) {
+    .rendered-content-container {
+        max-width: 1140px;
+        width: 760px;
+        margin: 0 auto;
+    }
+} */

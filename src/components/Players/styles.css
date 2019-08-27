@@ -1,0 +1,22 @@
+.slider {
+    max-width: 574px;
+    margin: 0 auto 30px;
+    background: #f7f7f7;
+    border-radius: 15px;
+    padding: 15px 30px;
+}
+
+.heading {
+    padding-bottom: 45px;
+    text-align: center;
+}
+
+.slider .MuiSlider-thumb {
+    height: 20px;
+    width: 20px;
+    margin-top: -9px;
+    margin-left: -9px;
+}
+.slider .MuiSlider-valueLabel {
+    left: calc(-50% + 4px);
+}

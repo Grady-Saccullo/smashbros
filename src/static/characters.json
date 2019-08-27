@@ -1,0 +1,102 @@
+[
+    {
+        "tier": "S",
+        "characters": [
+            "PICHU",
+            "PEACH",
+            "DAISY",
+            "OLIMAR",
+            "LUCINA",
+            "PIKACHU",
+            "WOLF",
+            "FOX",
+            "WARIO",
+            "INKLING",
+            "GRENINJA"
+        ]
+    },
+    {
+        "tier": "A",
+        "characters": [
+            "IKE",
+            "PALUTENA",
+            "YOUNG LINK",
+            "SNAKE",
+            "ROY",
+            "CHROM",
+            "R.O.B.",
+            "SHULK",
+            "POKEMON TRAINER",
+            "MARTH",
+            "LINK",
+            "MEGAMAN",
+            "YOSHI",
+            "LUCARIO",
+            "NESS",
+            "CLOUD",
+            "ZERO SUIT SAMUS",
+            "SONIC",
+            "PAC MAN",
+            "LUCAS",
+            "MII SWORDFIGHTER"
+        ]
+    },
+    {
+        "tier": "B",
+        "characters": [
+            "GANONDORF",
+            "CORRIN",
+            "FALCO",
+            "MARIO",
+            "DR. MARIO",
+            "BAYONETTA",
+            "CAPTAIN FALCON",
+            "META KNIGHT",
+            "RICHTER",
+            "SIMON",
+            "TOON LINK",
+            "SAMUS",
+            "DARK SAMUS",
+            "WII FIT TRAINER",
+            "MII GUNNER",
+            "LUIGI",
+            "DONKEY KONG",
+            "BOWSER",
+            "VILLAGER",
+            "ISABELLE",
+            "RYU",
+            "KEN",
+            "PIT",
+            "DARK PIT",
+            "MII BRAWLER",
+            "ICE CLIMBERS",
+            "MEWTWO",
+            "DIDDY KONG",
+            "KIRBY",
+            "INCINEROAR",
+            "ROBIN",
+            "DUCK HUNT",
+            "ROSALINA",
+            "SHEIK",
+            "ZELDA",
+            "JIGGLYPUFF",
+            "KING DEDEDE",
+            "KING K. ROOL"
+        ]
+    },
+    {
+        "tier": "C",
+        "characters": [
+            "RIDLEY",
+            "BOWSER JR.",
+            "PIRANHA PLANT",
+            "MR. GAME & WATCH"
+        ]
+    },
+    {
+        "tier": "D",
+        "characters": [
+            "LITTLE MAC"
+        ]
+    }
+]

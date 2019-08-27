@@ -1,0 +1,98 @@
+.container {
+    background: #f7f7f7;
+    border-radius: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+    max-width: 574px;
+    margin: 0 auto 25px;
+}
+
+.error {
+    animation: fadeIt .3s ease-in-out;
+}
+
+@keyframes fadeIt {
+  0%   { background-color: f7f7f7; }
+  50%  { background-color: #ed6d6d76; }
+  100% { background-color: f7f7f7; }
+}
+
+
+#heading {
+    text-align: center;
+}
+
+#checkboxes {
+    width: 100%;
+    margin: 10px auto 0;
+    padding-bottom: 5px;
+}
+
+#checkboxes .MuiFormGroup-root {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+label {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.circle {
+    width: 55px;
+    height: 52px;
+    padding-top: 3px;
+    margin: 0;
+    border-radius: 50%;
+    text-align: center;
+
+}
+
+.S-Label {
+    background-color: #ee5253;
+    /* color: rgb(158, 27, 27); */
+}
+
+.A-Label {
+    background-color: #ff9f43;
+    /* color: rgb(201, 131, 18); */
+}
+
+.A-Label h3 {
+    margin-top: -2px;
+    margin-left: 1px;
+}
+
+.B-Label {
+    background-color: #20bf6b;
+    /* color: rgb(74, 139, 5); */
+}
+.B-Label h3 {
+    margin-left: 2px;
+}
+
+.C-Label {
+    background-color: #5f27cd;
+    /* color: rgb(1, 155, 122) */
+}
+
+.D-Label {
+    background-color: #2e86de;
+    /* color: rgb(43, 96, 156); */
+}
+
+.D-Label h3 {
+    margin-left: 4px;
+}
+
+@media screen and (max-width: 500px) {
+    .container {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
